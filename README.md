@@ -1,6 +1,6 @@
 # e1039-analysis
 
-A repository to share all user-level analysis programs at E1039.
+A repository to share all user-level analysis programs at E1039
 
 
 ## Short-Term Usage
